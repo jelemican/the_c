@@ -13,7 +13,7 @@ void main(){
 		printf("Wrong X!!! ");
 		goto link1;
 	}
-	printf("Type the number of minimum member: ");
+	printf("Type the value of minimum member: ");
 	scanf("%f", & y);
 	for (i = 0; i <10; i = i + 1)
 	{
